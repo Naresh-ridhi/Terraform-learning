@@ -3,7 +3,7 @@ terraform {
     organization = "Accenture2010"
 
     workspaces {
-      name = "Terraform-example"
+      name = "Terraform-learning"
     }
   }
 }
